@@ -1,6 +1,7 @@
 # Tutorial
-
+purpose:- " learning and practice "
 this is my first repository
+
 <br>
 i am jatinsingh.
 i am a cuh student
